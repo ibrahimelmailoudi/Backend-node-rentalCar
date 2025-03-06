@@ -4,7 +4,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-4.x-black?style=for-the-badge&logo=express)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-blue?style=for-the-badge&logo=prisma)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-yellow?style=for-the-badge&logo=jsonwebtokens)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
 
 > A **rental car management backend** built using **Node.js, Express.js, and Prisma ORM** with PostgreSQL.  
 > Provides features for **user authentication, car management, and booking system.**  
@@ -62,25 +62,29 @@ G:.
 ```sh
 git clone https://github.com/your-username/Backend-node-rentalCar.git
 cd Backend-node-rentalCar
-🛠 Tech Stack
-Backend: Node.js, Express.js
-Database: Mongodb (via Prisma ORM)
-Authentication: JWT, bcrypt.js
-Payment Gateway:  PayPal
-Validation: Express Validator
-Logging: Morgan
-Deployment: Docker
+---
 
-🏗 Future Enhancements
+## 🛠 **Tech Stack**
+- Backend: Node.js, Express.js
+- Database: Mongodb (via Prisma ORM)
+- Authentication: JWT, bcrypt.js
+- Payment Gateway:  PayPal
+- Validation: Express Validator
+- Logging: Morgan
+- Deployment: Docker
+
+---
+
+## 🏗 **Future Enhancements**
 🔹 Implement an Admin Dashboard UI
 🔹 Add AI-based Car Recommendation System
 🔹 Enable Multi-language Support
 🔹 Improve Performance Optimization
 
+---
 
-📜 License
-This project is licensed under the MIT License.
-
+## 📜 **License**
+- This project is licensed under the MIT License.
 
 ---
 
